@@ -31,7 +31,7 @@ pulumi preview --diff
 
 shows the following in my example
 
-```json
+```shell
         [urn=urn:pulumi:dev::PulumiCDNEndpointIssue::azure-native:cdn:Endpoint::demo-endpoint]
         [provider=urn:pulumi:dev::PulumiCDNEndpointIssue::pulumi:providers:azure-native::default_1_67_0::4512e730-c247-4979-b05a-f7e795c74b2e]
       ~ origins: [
