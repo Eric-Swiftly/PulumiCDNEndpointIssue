@@ -1,0 +1,6 @@
+name: PulumiCDNEndpointIssue
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Used to demo the end point update failures
